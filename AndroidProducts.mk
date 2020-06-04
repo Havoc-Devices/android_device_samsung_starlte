@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/havoc_starlte.mk
+    $(LOCAL_DIR)/lineage_starlte.mk
 
 COMMON_LUNCH_CHOICES := \
-     havoc_starlte-userdebug \
-     havoc_starlte-eng \
-     havoc_starlte-user
+     lineage_starlte-userdebug \
+     lineage_starlte-eng \
+     lineage_starlte-user
