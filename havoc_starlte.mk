@@ -45,6 +45,8 @@ PRODUCT_PACKAGES_DEBUG_ASAN := false
 
 #Havoc initilalize
 export HAVOC_BUILD_TYPE=Official
+HAVOC_MAINTAINER := Adrian Sian (garett_09)
+HAVOC_GROUP_URL := https://t.me/havoc9810
 
 BUILD_FINGERPRINT := samsung/starltexx/starlte:10/QP1A.190711.020/$(PRODUCT_PDA_VERSION):user/release-keys
 
